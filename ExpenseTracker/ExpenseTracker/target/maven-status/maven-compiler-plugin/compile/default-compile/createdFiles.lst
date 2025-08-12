@@ -1,0 +1,9 @@
+com\expensetracker\ExpenseTrackerApplication.class
+com\expensetracker\repository\ExpenseRepository.class
+com\expensetracker\service\ExpenseService.class
+com\expensetracker\repository\UserRepository.class
+com\expensetracker\controller\AuthController.class
+com\expensetracker\entity\Expense.class
+com\expensetracker\entity\User.class
+com\expensetracker\service\UserService.class
+com\expensetracker\controller\ExpenseController.class
